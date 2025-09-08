@@ -194,7 +194,7 @@ export default function Footer() {
             reserved.
           </p>
           <div className="flex items-center gap-4 mt-3 md:mt-0">
-            <span className="text-emerald-600 bg-emerald-50 px-3 py-1 rounded-full text-xs font-medium">
+            <span className="text-emerald-600 bg-emerald-40 px-3 py-1 rounded-full text-xs font-medium">
               ● All Systems Operational
             </span>
             <span>Trusted by 75,000+ customers</span>
